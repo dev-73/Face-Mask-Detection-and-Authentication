@@ -6,6 +6,9 @@ The world is struggling with Covid-19 pandemic and are so many essential equipme
 ![Research_Paper-5](https://user-images.githubusercontent.com/78067738/125106296-1d6d9280-e0fd-11eb-895f-18e274f08d97.jpg) ![Research_Paper-6](https://user-images.githubusercontent.com/78067738/125106318-2199b000-e0fd-11eb-87a4-8006dbc24b23.jpg)
 ![Research_Paper-7](https://user-images.githubusercontent.com/78067738/125106339-25c5cd80-e0fd-11eb-992f-9df84de67113.jpg) ![Research_Paper-8](https://user-images.githubusercontent.com/78067738/125106353-2b231800-e0fd-11eb-8f0c-ea7ec11a82ba.jpg)
 
-
+<p float="left">
+  <img src="/https://user-images.githubusercontent.com/78067738/125106126-ebf4c700-e0fc-11eb-97b0-9579e7ea4d44.jpg" width="100" />
+  <img src="https://user-images.githubusercontent.com/78067738/125106136-eeefb780-e0fc-11eb-83b4-185ff428b60a.jpg" width="100" /> 
+</p>
 
 
